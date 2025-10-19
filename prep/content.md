@@ -9,7 +9,7 @@ Topic: **Dental health**
 * Tech
 * 1st Google search: Dental health apps
 * 1st website looked at: https://www.brushdj.com/
-   *1st app review was brush dj
+  * 1st app review was Brush DJ
 ## Part B: possible future technology
 * Idea
   * Detail
