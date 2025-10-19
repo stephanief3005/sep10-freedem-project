@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Dental health**
 
 ## Overview/Introduction/Context
 * Text
