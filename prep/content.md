@@ -16,12 +16,19 @@ Topic: **Dental health**
       * Track time on brushing
       * It's a more fun way of brushing your teeth
       * Instead of counting in your head, you get to use the app, which tells you the right time to brush
-  * 2nd app: **dental care app**
+  * 2nd app: **Dental care app**
       * You can brush your teeth with a special guide with visuals
       * You can check your brushing statistics
       * Use on phone
   * 3rd app: **Text 2 floss**
-      *
+  * Reviewed website link with their information too: https://texttofloss.com/
+      * Great for kids and teenagers to help them develop their hygiene routines
+      * Sends you text messages to encourage your healthy oral habits
+      * Track and view your oral health progress
+      * GPS to find a dental clinic close by
+      * Oral health management
+      * US health educator
+      * Not only helps you keep a routine, but educates you as well
   
     
 ## Part B: possible future technology
