@@ -9,6 +9,7 @@ Topic: **Dental health**
 * Tech
   * Detail
   * [image text](image URL)
+    
 *1st Google search: Dental health apps
 *1st website looked at: https://www.brushdj.com/
 ## Part B: possible future technology
