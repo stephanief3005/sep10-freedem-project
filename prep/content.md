@@ -29,7 +29,9 @@ Topic: **Dental health**
       * Oral health management
       * US health educator
       * Not only helps you keep a routine, but educates you as well
-  
+  * **Dental software**
+      * Dentrix
+            *a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office. 
     
 ## Part B: possible future technology
 * Idea
