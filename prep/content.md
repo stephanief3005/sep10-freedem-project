@@ -31,8 +31,9 @@ Topic: **Dental health**
       * Not only helps you keep a routine, but educates you as well
   * **Dental software**
       * Dentrix
-            *a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office. 
-    
+            * a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office. 
+      * Intraoral scanners
+            * These handheld wands use optical or laser technology to capture high-resolution, three-dimensional digital impressions of a patient's mouth.
 ## Part B: possible future technology
 * Idea
   * Detail
