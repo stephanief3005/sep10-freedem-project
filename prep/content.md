@@ -34,6 +34,14 @@ Topic: **Dental health**
             * a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office. 
       * Intraoral scanners
             * These handheld wands use optical or laser technology to capture high-resolution, three-dimensional digital impressions of a patient's mouth.
+      * Intraoral Cameras
+            * High-tech cameras that provide real-time images of a patient's mouth, which can help with patient education and understanding treatment plans.
+      *Dental radiograph
+            * Website looked at : https://my.clevelandclinic.org/health/diagnostics/11199-dental-x-rays?utm_source=chatgpt.com
+            * You bite a chewing tab that can also be called a sensor holder to keep the digital sensor ready to use
+            * They use the X-ray sensor and step back and press a button to activate the X-ray machine that scans your teeth
+            * This X-ray shows images of your teeth and bone
+            * They use this to check for cavities, bone loss, and other issues
 ## Part B: possible future technology
 * Idea
   * Detail
