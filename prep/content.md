@@ -31,8 +31,11 @@ Topic: **Dental health**
       * Not only helps you keep a routine, but educates you as well
   * **Dental software**
   * Dentrix
-      * a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office. 
+      * Website viewed: https://www.henryscheinone.com/products/dentrix-ascend/?utm_source=capterra&utm_medium=ppc&utm_campaign=dtxa-promo-capterra&tname=2025-08-digital-ad-dtxa-promo-capterra&gdmcid=f6992493-fa0a-43d5-8dbc-5ad0acf7c740
+      * a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office.
+      * Helps with organization
   * Intraoral scanners
+      *  No radiation
       * These handheld wands use optical or laser technology to capture high-resolution, three-dimensional digital impressions of a patient's mouth.
   * Intraoral Cameras
       * High-tech cameras that provide real-time images of a patient's mouth, which can help with patient education and understanding treatment plans.
@@ -42,6 +45,7 @@ Topic: **Dental health**
       * They use the X-ray sensor and step back and press a button to activate the X-ray machine that scans your teeth
       * This X-ray shows images of your teeth and bone
       * They use this to check for cavities, bone loss, and other issues
+      * Low radiation
 ## Part B: possible future technology
 * Idea
   * Detail
