@@ -36,6 +36,7 @@ Topic: **Dental health**
       * These handheld wands use optical or laser technology to capture high-resolution, three-dimensional digital impressions of a patient's mouth.
   * Intraoral Cameras
       * High-tech cameras that provide real-time images of a patient's mouth, which can help with patient education and understanding treatment plans.
+        
   *Dental radiograph
       * Website looked at: https://my.clevelandclinic.org/health/diagnostics/11199-dental-x-rays?utm_source=chatgpt.com
       * You bite a chewing tab that can also be called a sensor holder to keep the digital sensor ready to use
