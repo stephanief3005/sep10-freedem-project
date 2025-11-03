@@ -1,7 +1,7 @@
 # Entry 2
 ##### 11/3/25
 
-Text
+## Choosing a topic
 
 [Previous](entry01.md) | [Next](entry03.md)
 
