@@ -1,8 +1,10 @@
-# Entry 2
+# Entry 2: Deciding on my topic
 ##### 11/3/25
 
-## Choosing a topic
-The topic I have chosen for my year long project is dental hygeinst. I chose this topic because I was intreseted in the healthcare field. Im the type of person who likes working in clean spaces with that medical ambience.
+## The process of getting into my chosen topic: Dental Hygeine
+  Throughout the time of researching software and hardware technologies in my topic
+
+  
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
