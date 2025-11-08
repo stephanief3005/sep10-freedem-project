@@ -10,7 +10,8 @@ Well I am curently in the second stage of my engineer design process of research
 # Skills!
 Ok so the skills I've learned working on this blog are time management, and authenticity. Ok first lets talk about time management. So I developed this skill when I was researching software and hardware technologies. I was focusing on researching stuff in the dental field that weren't really important like electric teeth cleaners and common stuff but, what I needed to focus on was about **technolgies** that people did not know. Which is the problem I'm going to get a solution. So i learned that first I should prioritize and focus what's important and get it done. And then, on my free time I can check the low priorities! Now lets get into authenticity during my research in google I saw theese websites that weren't clearly answering my searching that I was looking for when I wrote it. What was frustraiting was it was hard to tell if they were legit or not. So what i did is I checked if they were verrified clinics and organizations and that's how I got to collecting my information more confidently.
 
-
+# Summary 
+So now overall I'm more confident and excited in learning into my topic than in the past. Since I love learning about topics in a understanding deep ways that I can be able to show or teach it to someone and thanks to the skills I also developed during this process. So I really am 100% looking foward toward this!
 
   
 [Previous](entry01.md) | [Next](entry03.md)
