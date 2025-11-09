@@ -11,7 +11,7 @@ Well, I am currently in the second stage of my engineering design process of res
 Ok, so the skills I've learned working on this blog are time management and authenticity. Ok, first let's talk about time management. So I developed this skill when I was researching software and hardware technologies. I was focusing on researching stuff in the dental field that wasn't really important, like electric tooth cleaners and common stuff, but what I needed to focus on was about **technologies** that people did not know. Which is the problem I'm going to build towards that solution. So I learned that first I should prioritize and focus on what's important and get it done. And then, in my free time, I can check the low priorities! Now let's get into authenticity. During my research on Google, I saw these websites that weren't clearly answering my search. I was looking for when I wrote it. What was frustrating was that it was hard to tell if they were legit or not. So what I did was I checked if they were verified clinics and organizations, and that's how I got to collecting my information more confidently.
 
 # Summary 
-So now, overall, I'm more confident and excited about learning about my topic than in the past. Since I love learning about topics in a deep way that I can be able to show or teach to someone, and thanks to the skills I also developed during this process. So I really am 100% looking forward to this!
+So now, overall, I'm more confident and excited about learning about my topic than in the past. Since I love learning about topics in a deep way that I can show or teach to someone, and thanks to the skills I also developed during this process. So I really am 100% looking forward to this!
 
   
 [Previous](entry01.md) | [Next](entry03.md)
