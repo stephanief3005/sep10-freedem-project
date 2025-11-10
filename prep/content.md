@@ -5,7 +5,7 @@ Topic: **Dental health**
 * Text
 * Text
 
-## Part A: existing technology
+## Categories
 * Tech
 * 1st Google search: Dental health apps
 * 1st website looked at: https://www.brushdj.com/
