@@ -5,8 +5,8 @@ Topic: **Dental health**
 * Text
 * Text
 
-## Categories
-* Tech
+Categories
+* **Categories**
 * 1st Google search: Dental health apps
 * 1st website looked at: https://www.brushdj.com/
   * 1st app review was **Brush DJ**
@@ -29,16 +29,17 @@ Topic: **Dental health**
       * Oral health management
       * US health educator
       * Not only helps you keep a routine, but educates you as well
-  * **Dental software**
-  * Dentrix
+      *   * Dentrix
       * Website viewed: https://www.henryscheinone.com/products/dentrix-ascend/?utm_source=capterra&utm_medium=ppc&utm_campaign=dtxa-promo-capterra&tname=2025-08-digital-ad-dtxa-promo-capterra&gdmcid=f6992493-fa0a-43d5-8dbc-5ad0acf7c740
       * a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office.
       * Helps with organization
+  * **Mildly complex**
   * Intraoral scanners
       *  No radiation
       * These handheld wands use optical or laser technology to capture high-resolution, three-dimensional digital impressions of a patient's mouth.
   * Intraoral Cameras
       * High-tech cameras that provide real-time images of a patient's mouth, which can help with patient education and understanding treatment plans.
+  * **Most complex**
   * Dental radiograph
       * Website looked at: https://my.clevelandclinic.org/health/diagnostics/11199-dental-x-rays?utm_source=
       * You bite a chewing tab that can also be called a sensor holder to keep the digital sensor ready to use
