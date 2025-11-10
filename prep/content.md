@@ -33,7 +33,7 @@ Categories
       * Website viewed: https://www.henryscheinone.com/products/dentrix-ascend/?utm_source=capterra&utm_medium=ppc&utm_campaign=dtxa-promo-capterra&tname=2025-08-digital-ad-dtxa-promo-capterra&gdmcid=f6992493-fa0a-43d5-8dbc-5ad0acf7c740
       * a comprehensive dental practice management software designed to streamline administrative and clinical workflows in a dental office.
       * Helps with organization
-  * **Mildly complex**
+* **Mildly complex**
   * Intraoral scanners
       *  No radiation
       * These handheld wands use optical or laser technology to capture high-resolution, three-dimensional digital impressions of a patient's mouth.
