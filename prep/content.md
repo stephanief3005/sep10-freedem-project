@@ -50,19 +50,20 @@ Categories
       * They use this to check for cavities, bone loss, and other issues
       * Low radiation
 ## Part B: possible future technology
-* Cleaning scanner for teeth
-  * Before dentist cleaning the patient's teeth they use this scanner it has this type of light that dectects the most parts that need cleaning by showing colors dectectinghow much bacteria it has
-  * there are 4 types of colors that dectect how much bacteria there is light, normal, mild really mild.
-  * It also has a scale to dectect if this person's teeth health is good
-* A medicine for widosm teeth after procedures to remove it
-  * So there is a medicine so your wisdom teeth dont swell alot
-  * Only dentist's can apply it after procedure
-  * This can help with people who always go through alot of pain after getting their widsom teeth removed
-* A teeth scanner for patients
-  * So this scanner you have to scan all of the places of your mouth
-  * 3d view of why and what places you need to improve in your dental routine
-  * connected with a app on your phone
-  * It tells you if you need to floss more or brush your teeth
-  * warns your possibilities in having a cavity in part's of your teeth
-  * You need to charge it every 1-2 weeks depending how much you use it
-  * Really helpful
+* Cleaning the scanner for teeth
+  * Before the dentist cleans the patient's teeth, they use this scanner, which has this type of light that detects the most parts that need cleaning by showing colors, detecting how much bacteria it has
+  * 4 types of colors detect how much bacteria there is: light, normal, mild really mild.
+  * It also has a scale to detect if this person's teeth health is good
+* A medicine for wisdom teeth after procedures to remove them
+  * So there is a medicine so your wisdom teeth don't swell a lot
+  * Only dentists can apply it after the procedure
+  * This can help with people who always go through a lot of pain after getting their wisdom teeth removed
+* A tiny machine that helps you floss much faster
+  * It's rechargeable
+  * It uses AI
+  * connected with an app on your phone
+  * It has this tiny screen that tells you how many times you have flossed
+  * Send your phone notifications to floss if you have forgotten to
+  * Long-lasting battery life
+  * You place the tiny machine next to the tooth gap you wanna gloss. You have to place it well, and it turns green, and it starts flossing and doing the movement to floss that gap of your teeth, so all you have to do is hold it.
+  * You have to change the string after using it for hygiene purposes.
