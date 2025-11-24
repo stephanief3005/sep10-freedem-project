@@ -44,10 +44,11 @@ Categories
   *  T-Scan occlusal analysis system
     <br>
     <img src="cbct.jpg" width="170">
+      * Web viewed: https://pubmed.ncbi.nlm.nih.gov/37021739/
       * Uses digital sensors
       * advanced software
-      * measures the force and timing of your bite
-      * You bite down on a thin sensor.
+      * Jaw tracking
+    
 *  **Most complex**
   * Dental radiograph
     <br>
