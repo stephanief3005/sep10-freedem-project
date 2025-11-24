@@ -50,6 +50,8 @@ Categories
       * You bite down on a thin sensor.
 *  **Most complex**
   * Dental radiograph
+    <br>
+    <img src="X-ray.webp" width="170">
       * Website looked at: https://my.clevelandclinic.org/health/diagnostics/11199-dental-x-rays?utm_source=
       * You bite a chewing tab that can also be called a sensor holder to keep the digital sensor ready to use
       * They use the X-ray sensor and step back and press a button to activate the X-ray machine that scans your teeth
