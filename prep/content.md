@@ -42,8 +42,7 @@ Categories
   * Intraoral Cameras
       * High-tech cameras that provide real-time images of a patient's mouth, which can help with patient education and understanding treatment plans.
   * T scan
-    ![T scanner](<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/054a7ba5-456d-4930-86a0-6063dfa0a7ba" />
-)
+    ![T scanner](./cbct.jpg)
       * Uses digital sensors
       * advanced software
       * measures the force and timing of your bite
