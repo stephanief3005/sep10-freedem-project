@@ -41,6 +41,11 @@ Categories
       * These handheld wands use optical or laser technology to capture high-resolution, three-dimensional digital impressions of a patient's mouth.
   * Intraoral Cameras
       * High-tech cameras that provide real-time images of a patient's mouth, which can help with patient education and understanding treatment plans.
+  * T scan
+      * Uses digital sensors
+      * advanced software
+      * measures the force and timing of your bite
+      * You bite down on a thin sensor.
 *  **Most complex**
   * Dental radiograph
       * Website looked at: https://my.clevelandclinic.org/health/diagnostics/11199-dental-x-rays?utm_source=
