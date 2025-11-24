@@ -2,8 +2,9 @@
 Topic: **Dental health**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* This site will look at dental technology that's used now and the possibilities of more in the future
+* Dental radiography uses low radiation, making it safer to use than other technologies.
+* Why dental health is important as other aspects of overall health.
 
 Categories
 * **Categories**
