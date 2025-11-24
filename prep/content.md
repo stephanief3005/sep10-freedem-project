@@ -42,6 +42,7 @@ Categories
   * Intraoral Cameras
       * High-tech cameras that provide real-time images of a patient's mouth, which can help with patient education and understanding treatment plans.
   * T scan
+    <br>
     <img src="cbct.jpg" width="170">
       * Uses digital sensors
       * advanced software
