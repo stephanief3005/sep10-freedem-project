@@ -4,16 +4,19 @@
 
 
 ## Choosing a topic
+The topic I chose was Dental Health and its technologies because, most of the time, I have remembered since I was younger, and now. I was so curious about teeth and why they were so important. Then grew into questions like how do these technologies do this and that. I am mostly interested in the healthcare field. My backup idea was doing full health involving the whole body. But hey, that seems a lot to learn. So why not choose something a bit simpler? Another reason is that I remember I would always ask the dentist who attended me what does this technology does and how I seemed pretty interested. When I hear the word technology, what instantly comes to my mind are those machines that people in health care use, for example, patient monitors. Those X-rays are used for teeth and bones in your body. Which I also connect to computers cause that's what they use to see it
+
+Now the two main links I used to explore my topic was
 
 
 
 
 ## Engineer design process
-
-
+I am currently at the stage of choosing the topic on which I want to mainly choose on
 
 
 ## Skills
+Skills I learned are how to be ready to take opportunities and why, my second skill is how to get authentic information from trustworthy webs.
 
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project that focuses on our current and future innovations in a topic of our choice.
 
