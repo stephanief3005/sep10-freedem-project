@@ -1,8 +1,4 @@
 # SEP10 Freedom Project
-
-
----
-
 # Entry 1: Deciding on My Topic (Dental Health and Technology)
 ##### 10/11/25
 
