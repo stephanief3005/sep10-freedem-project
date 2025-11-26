@@ -1,4 +1,9 @@
-# Exploring dental hygiene
+# SEP10 Freedom Project
+
+
+---
+
+# Entry 1: Deciding on My Topic (Dental Health and Technology)
 ##### 10/11/25
 
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project that focuses on our current and future innovations in a topic of our choice.
