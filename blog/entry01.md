@@ -6,6 +6,19 @@
 # Entry 1: Deciding on My Topic (Dental Health and Technology)
 ##### 10/11/25
 
+
+## Choosing a topic
+
+
+
+
+## Engineer design process
+
+
+
+
+## Skills
+
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project that focuses on our current and future innovations in a topic of our choice.
 
 For my project, I chose the topic of **dental hygiene**. I have always been interested in cleanliness and organization, and I enjoy helping others feel confident about themselves. When I read  [" The role of Dental Hygienists in Modern healthcare"](https://jdh.adha.org/content/99/5/4) by the American Dental Hygienist Association. I was impressed by how dental hygienists use technology to improve patient care. Especially another article I found by the NIH  ["the role of technology in oral health"](https://pmc.ncbi.nlm.nih.gov/articles/PMC10093858/) it has, and how ["important it is itself"](https://www.nidcr.nih.gov/health-info/oral-hygiene) Articles by NIH. So when I discovered the profession of a dental hygienist, it instantly caught most of my attention.  
