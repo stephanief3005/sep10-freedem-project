@@ -1,4 +1,4 @@
-# Entry 3
+# Entry 3: Dental Health and Technology
 ##### 12/1/25
 
 Text
