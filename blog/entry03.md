@@ -5,13 +5,13 @@ So what I've brainstormed for possible future technology was a cleaner scanner f
 
 
 
-###Sources
+### Sources
 
 
-###Edp
+### Edp
 
 
-###Skills
+### Skills
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
