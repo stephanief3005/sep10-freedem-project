@@ -6,7 +6,7 @@ So, what I've brainstormed for possible future technology is a cleaner scanner f
 
 
 ### Sources
-I didnt use any formal sources for this entry, but I used google to check if the technologies I brain stormed exist already. So I would write it off on a paper of my ideas, then I would search for example "Does a machine flosser exist" or "A medicine for wisdom tooth pain," and so the ideas that aren't yet made, I add them to my part B (Possible future technology) information.
+I didnt use any formal sources for this entry, but I used google to check if the technologies I brain stormed exist already. So I would write it off on a paper of my ideas, then I would search for example "Does a machine flosser exist" or "A medicine for wisdom tooth pain," and so the ideas that aren't yet made, I add them to my part B EDP (Possible future technology) information.
 
 ### Engineering design process
 Right now, I am finalizing all of my FP content. My plans for the next stage are to plan the solution for informing people about dental health technology apps, sources, and any type of technology to be made known. So I am hoping to be organized for my plan and to know the exact steps and have a great performance in my next steps. :)
