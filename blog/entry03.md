@@ -9,7 +9,7 @@ So, what I've brainstormed for possible future technology is a cleaner scanner f
 I didn't use any sources, but I used Google's search engine to find out if the possible future technology for dental health exists. So I would write it off on a paper of my ideas, then I would search for example "Does a machine flosser exist" or "A medicine for wisdom tooth pain," and so the ideas that aren't yet made, I add them to my part B (Possible future technology) information.
 
 ### Edp
-Right now, I am finalizing all of my FP content. My plans for the next stage are to plan the solution for informing people about dental health technology apps, sources, and any type of technology to be made known. So I am hoping to be organized for my plan and to know the exact steps I 
+Right now, I am finalizing all of my FP content. My plans for the next stage are to plan the solution for informing people about dental health technology apps, sources, and any type of technology to be made known. So I am hoping to be organized for my plan and to know the exact steps and have a great performance in my next steps. :)
 
 ### Skills
 The skills I've learned are to have a better growth mindset. So I've always been doubting myself based on the grades I've been getting in my blog and write-ups, thinking I'm gonna get something wrong that which just affected everything I do in work in SEP, and I always have the thought that I will have a bad grade. But all I need to do is learn from my mistakes and become more positive. If I fail, that's okay, I learn from it and become better.  
