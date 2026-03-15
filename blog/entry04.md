@@ -2,7 +2,7 @@
 ##### 3/9/25
 
 ## Content
-I chose **A-frame** as my tool. I tinkered with the starting code while reading the documentation and then inspected it. First, I reviewed the code and the 3D results, trying to understand how it works. Before I tinkered with my tool, I went through the documentation. A-frame has basic primitives and HTML attributes; it creates a virtual reality experience based on HTML; it contains core components (shapes) and additional components, and is easy to install. So then I tried out the code by changing the primitives and their properties, like size and radius. I added a ring in front of the starter code and will learn more about positioning those components to build a prototype using all of them. Now this is the right tool because of the 3D framework and how simple it is to create <u>3D web scenes with only HTML</u>.
+I chose **A-frame** as my tool. I tinkered with the starting code while reading the documentation and then inspected it. First, I reviewed the code and the 3D results, trying to understand how it works. Before I tinkered with my tool, I went through the documentation. A-frame uses basic primitives and HTML attributes to create a virtual reality experience; it contains core components (shapes) and additional components, and is easy to install. So then I tried out the code by changing the primitives and their properties, like size and radius. I added a ring in front of the starter code and will learn more about positioning those components to build a prototype using all of them. Now this is the right tool because of the 3D framework and how _simple_ it is to create 3D web scenes with only HTML.
 
 ![starter code view](../tool/aframe.png)
 ![Adding primitives and changing properties](../tool/aframe-change.png)
