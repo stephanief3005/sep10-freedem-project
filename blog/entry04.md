@@ -6,6 +6,7 @@ I chose **A-frame** as my tool. I tinkered with the starting code while reading 
 
 ![starter code view](../tool/aframe.png)
 ![Adding primitives and changing properties](../tool/aframe-change.png)
+
 ## Source
 I'm using [A-frame](https://aframe.io/docs/1.7.0/introduction/html-and-primitives.html) docs recent version to learn, and I am also using a **YouTube playlist** titled [Learn A-frame WebVR](https://www.youtube.com/watch?v=liOLtcPmMa0&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=4). I tend to use the documentation more than the YouTube videos because on the YouTube playlist, the demonstration isn't on the latest version. So I try to remind myself that every time I code. I use YouTube videos when I don't understand something in the documentation, and I learn more effectively by watching them, so I do that too.
 
