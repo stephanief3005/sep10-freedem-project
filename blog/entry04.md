@@ -8,10 +8,10 @@ I chose **A-frame** as my tool. I tinkered with the starting code while reading 
 ![Adding primitives and changing properties](../tool/aframe-change.png)
 
 ## Source
-I'm using [A-frame](https://aframe.io/docs/1.7.0/introduction/html-and-primitives.html) docs recent version to learn, and I am also using a **YouTube playlist** titled [Learn A-frame WebVR](https://www.youtube.com/watch?v=liOLtcPmMa0&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=4). I tend to use the documentation more than the YouTube videos because on the YouTube playlist, the demonstration isn't on the latest version. So I try to remind myself that every time I code. I use YouTube videos when I don't understand something in the documentation, and I learn more effectively by watching them.
+I'm using [A-frame](https://aframe.io/docs/1.7.0/introduction/html-and-primitives.html) docs, the recent version 1.7.0, to learn, and I am also using a **YouTube playlist** titled [Learn A-frame WebVR](https://www.youtube.com/watch?v=liOLtcPmMa0&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=4). I tend to use the documentation more than the YouTube videos because on the YouTube playlist, since the youtube videos arent on the same latest version but a more older one. So I try to remind myself that every time I code. I use YouTube videos when I don't understand something in the documentation, like someone making a demo for me.
 
-## Skill
-One skill that I learned during this experience is **LOYO, how to learn on my own**! I learned that I can not only use this skill when learning how to make my tool, but also in the outside world. So if I want to learn on my own, I know I can always use YouTube videos. I can search Google for the topic and find specific topics and definitions on what I want to learn. Knowing how to YOLO also fosters **strong independence**, because if no one is available to help me, I know how to learn or find answers on my own!
+## Skills
+One skill that I learned during this experience is **LOYO, how to learn on my own**! I learned that I can not only use this skill when learning how to use my tool, but also in the outside world. So if I want to learn on my own any subject skills, I know I can always use YouTube videos. I can search Google for the topic and find specific topics and definitions on what I want to learn. Knowing how to YOLO also built **strong independence** in me, because if no one is available to help me, I know how to learn or find answers on my own!
 
 
 
