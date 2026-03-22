@@ -3,11 +3,10 @@
 ## Tool: **A-frame**
 
 ---
- Ive been using loose leaf to take notes on the topics Im learning from A-frame then I will be typing the notes in here!
- The only videos ive
+ I've been using loose-leaf to take notes on the topics I'm learning from A-frame, then I will be typing the notes in here!
 ### 3/16/26:
-* What is A-Frame: Its a Web framework for virtual reality experiences. A-frame is based on too HTML.
-* Just drop in a `<script>` tag and a `<a-scene>`. So A-frame handles 3d boiler plate, the VR setup and default controls.
+* What is A-Frame: It's a Web framework for virtual reality experiences. A-frame is based on HTML.
+* Just drop in a `<script>` tag and a `<a-scene>`. So A-frame handles 3d boiler plate, the VR setup, and default controls.
 * A frame has a handy built in 3d inspector so when you open a-frame scene and hit ctrl+i or ctrl+option+i
 * They have core components like
     * Geometries
@@ -20,7 +19,7 @@
     * positonal
     * audio
     * text
-* They have further more components like
+* They have components like furthermore
     * environment
     * state
     * particle systems
@@ -31,15 +30,20 @@
     * augmented reality
 
 ### 3/17/2026
-* Instalation + Testing : Go on A-Frame documentation and copy script scr paste it inside head tag
-* when you add the a-scene element it enters the VR mode button telling you it has been installed
-* Basic Primitives + HTML attributes is in the documentation
-* Each primitive has its own specific atributes + properties
+* Installation + Testing: Go to A-Frame documentation and copy the script, paste it inside the head tag
+* When you add the a-scene element, it enters the VR mode button, telling you it has been installed
+* Basic Primitives + HTML attributes are in the documentation
+* Each primitive has its own specific attributes + properties
 
 
 ### 3/18/26:
 What I learned while reading through the **entity component system** doc on A-Frame
-
+* ECS architecture is a common desirable pattern in 3D and game development that is led by the composition over inheritance and hierarchy principle.
+* An entity is basically a mix of components that assemble to create an entity, for example, from the documentation says Light **Bulb = Position + Light + Geometry + Material + Shadow**
+* Systems are represented by <a-scene>‘s HTML attributes.
+* To create an entity, we can use this format
+* format: <a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}">
+What I learned while reading through the **writing a compoent** doc on A-Frame
 ### 3/19/26:
 * Text
 
