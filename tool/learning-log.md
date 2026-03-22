@@ -4,6 +4,7 @@
 
 ---
  Ive been using loose leaf to take notes on the topics Im learning from A-frame then I will be typing the notes in here!
+ The only videos ive
 ### 3/16/26:
 * What is A-Frame: Its a Web framework for virtual reality experiences. A-frame is based on too HTML.
 * Just drop in a `<script>` tag and a `<a-scene>`. So A-frame handles 3d boiler plate, the VR setup and default controls.
@@ -37,7 +38,7 @@
 
 
 ### 3/18/26:
-* Text
+What I learned while reading through the **entity component system** doc on A-Frame
 
 ### 3/19/26:
 * Text
