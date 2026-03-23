@@ -3,7 +3,9 @@
 ## Tool: **A-frame**
 
 ---
+3/22/2026 note
  I've been using loose-leaf to take notes on the topics I'm learning from A-frame, and then I will be typing the notes in here!
+ I feel like ive mostly took notes because i dont like doing something before learning it, so I think I will be working on practicing it more, since thats also learning too, so more tinkering rather than notes.
 ### 3/16/26:
 * What is A-Frame: It's a Web framework for virtual reality experiences. A-frame is based on HTML.
 * Just drop in a `<script>` tag and a `<a-scene>`. So A-frame handles 3d boiler plate, the VR setup, and default controls.
