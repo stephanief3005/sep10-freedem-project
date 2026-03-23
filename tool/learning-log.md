@@ -70,7 +70,7 @@ Do not do this:
 </script>
 ```
 * what to do
-```
+``` html
 <script>
   AFRAME.registerComponent('code-that-does-this', {
     init: function () {
