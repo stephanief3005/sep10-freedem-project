@@ -44,14 +44,18 @@ What I learned while reading through the **entity component system** doc on A-Fr
 * To create an entity, we can use this format
 * format: <a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}">
 What I learned while reading through the **writing a component** doc on A-Frame
+* Entities are like empty containers; they only have stuff added when components have been attached
+* It's mostly good in use for complex objects with the formation of components by itself
+
 ### 3/19/26:
  Visual Inspector & Dev Tools
 - ctrl + alt + i --> to inspect
 - The inspector can be used to select, search, delete, clone, and add entities or export HTML.
-- The viewport shows inspectors pov, so we can rotate, pan, or zoom the viewport to change the view of the scene
-- This is mostly used for testing and better it
+- The viewport shows inspectors pov, so we can rotate, pan, or zoom the viewport to change the view of the scene, so you can transform entities, and it is better to use than switching back to code
+- The viewport tools allow you to rotate, pan, zoom, select, and transform those entities using 3d handles
+- There's a spectator mode for the third-person camera
+- This is mostly used for testing, and better
 - You can record
-- 
 
 ### 3/20/26:
 Best Practices from A-frame
@@ -92,14 +96,19 @@ Do not do this:
   <!-- ... -->
 </a-scene>
 ```
-*
+* Use VR design principles
+* reduce unnecessary object creation 
 ### 3/21/26:
+Writing a component doc and takeaways
+- Components can be reusable
+- AFRAME.registerComponent() is used to register components
+- Reusing components can help prevent performance issues
 * Planning on what I want to use A-frame
   - I want to use it, so the future innovation I think may exist in the future is the electric floss so then
   - I would use components like cube and sphere mostly
   - I'd use the entity component system I learned on 3/18/26
 <!--
-* Links you used today (websites, videos, etc)
+* Links you used today (websites, videos, etc.)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
 * Questions you still have
