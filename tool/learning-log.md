@@ -3,7 +3,7 @@
 ## Tool: **A-frame**
 
 ---
- I've been using loose-leaf to take notes on the topics I'm learning from A-frame, then I will be typing the notes in here!
+ I've been using loose-leaf to take notes on the topics I'm learning from A-frame, and then I will be typing the notes in here!
 ### 3/16/26:
 * What is A-Frame: It's a Web framework for virtual reality experiences. A-frame is based on HTML.
 * Just drop in a `<script>` tag and a `<a-scene>`. So A-frame handles 3d boiler plate, the VR setup, and default controls.
@@ -43,14 +43,61 @@ What I learned while reading through the **entity component system** doc on A-Fr
 * Systems are represented by <a-scene>‘s HTML attributes.
 * To create an entity, we can use this format
 * format: <a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}">
-What I learned while reading through the **writing a compoent** doc on A-Frame
+What I learned while reading through the **writing a component** doc on A-Frame
 ### 3/19/26:
-* Text
+ Visual Inspector & Dev Tools
+- ctrl + alt + i --> to inspect
+- The inspector can be used to select, search, delete, clone, and add entities or export HTML.
+- The viewport shows inspectors pov, so we can rotate, pan, or zoom the viewport to change the view of the scene
+- This is mostly used for testing and better it
+- You can record
+- 
 
 ### 3/20/26:
-* Text
+Best Practices from A-frame
+* Examples of what not to do
+``` html
+Do not do this:
+
+<a-scene>
+  <a-box></a-box>
+  <!-- ... -->
+</a-scene>
+
+<script>
+  // My JavaScript code here!
+  // ... NO!
+</script>
+```
+* what to do
+```
+<script>
+  AFRAME.registerComponent('code-that-does-this', {
+    init: function () {
+      // Code here.
+      console.log(this.el);
+    }
+  });
+
+  AFRAME.registerComponent('code-to-attach-to-box', {
+    init: function () {
+      // Code here.
+      console.log(this.el);
+    }
+  });
+</script>
+
+<a-scene code-that-does-this>
+  <a-box code-to-attach-to-box></a-box>
+  <!-- ... -->
+</a-scene>
+```
+*
 ### 3/21/26:
-* Text
+* Planning on what I want to use A-frame
+  - I want to use it, so the future innovation I think may exist in the future is the electric floss so then
+  - I would use components like cube and sphere mostly
+  - I'd use the entity component system I learned on 3/18/26
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
