@@ -99,7 +99,7 @@ Do not do this:
 </a-scene>
 ```
 * Use VR design principles
-* reduce unnecessary object creation 
+* reduce unnecessary object creation
 ### 3/21/26:
 Writing a component doc and takeaways
 - Components can be reusable
@@ -109,6 +109,36 @@ Writing a component doc and takeaways
   - I want to use it, so the future innovation I think may exist in the future is the electric floss so then
   - I would use components like cube and sphere mostly
   - I'd use the entity component system I learned on 3/18/26
+### 3/23/26
+**Introduction**
+**Installation**
+**VR Headsets & WebXR Browsers**
+
+Testing out:
+
+### 3/24/26
+**VR Headsets & WebXR Browsers**
+**HTML & Primitives**
+**Entity-Component-System**
+
+### 3/25/26
+**JavaScript, Events, DOM APIs**
+**Developing with three.js**
+
+### 3/26/26
+**Writing a Component**
+**Interactions & Controllers**
+
+### 3/27/26
+**3D Models**
+**Visual Inspector & Dev Tools**
+
+### 3/28/26
+**Hosting & Publishing**
+**Best Practices**
+**Building a Basic Scene (Guide)**
+**entity + component**
+
 <!--
 * Links you used today (websites, videos, etc.)
 * Things you tried, progress you made, etc
