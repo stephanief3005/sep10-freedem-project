@@ -111,6 +111,18 @@ Writing a component doc and takeaways
   - I'd use the entity component system I learned on 3/18/26
 ### 3/23/26
 **Introduction**
+* Developed from plain html
+- withour having to install
+* A-FRAME is a web frame work for building virtual reality (VR) experiences
+* the core is a poweful entity component framework that provides a declarative extensible and composable structure to three.js
+* based on html
+Drop in a `<script>` tag and `<a-scene>`. It will handle 3D boilet plate, VR set up and default controls
+Powerful three.js framework, provides a declarative composable , reusable tntity component structure
+- giving developers acccess to have unlimited access to Javascript, DOM, APIS , three js, webVR , Web GL
+* You can build VR for Vive, Rift, Meta quest, windows mixed reality, and apple vission pro but im going to be using the standard desktop + smartphones
+* 3D inspector Aframe scene with `<ctrl>` + alt + i or `<ctrl>` + option + i
+so you can fly around to peek under the hood
+and lastly for **components** can be checked in the documentation
 **Installation**
 **VR Headsets & WebXR Browsers**
 
