@@ -135,33 +135,84 @@ and lastly for **components** can be checked in the documentation
 In order to have it ina  html file drop in a `<script>` tag to the CDN build
 
 
-Testing out:
-
 ### 3/24/26
-**VR Headsets & WebXR Browsers**
+### **VR Headsets & WebXR Browsers**
 - A frame supports alot of platform
-**HTML & Primitives**
-
-**Entity-Component-System**
-
+### **HTML & Primitives**
+- A-frame uses HTML and DOM custom elements
+- No build tools needed so you just write html and open it (for example using http-server)
+- Uses and works JS frameworks
+- Once you understand general strcuture of syntax html (tags + attribute)
+**Primitives**
+- Elements ex:`<a-box>` or `<a-sky>`
+- They wrap entity component systems with defaults
+- Theres already built in primitives to use
+**extra!!**
+- Primitives are like `<a-entity>`
+  - but with a name like box
+  - alot of components
+  - the attributes have component property and mappings
+  - Primitives are like entities so you can position, scale add those components
+  - You can register custom primitives (check more in docs if needed)
+  - Custom primitves can be reusable with stuff already built inside
+### **Entity-Component-System**
+-  A frame uses ECS for VR with components
+**Entities**
+- similar to container div
+- only works when components are attached
+- `<a-entity>`
+**Components**
+- Reusable modules that you can add how it looks, behavior or function
+- Attached like html attributes
+- Uses `AFRAME.registerComponent()`
+**Systems**
+- uses CDN
+- provide global scope management and services for class of components
 ### 3/25/26
-**JavaScript, Events, DOM APIs**
-**Developing with three.js**
+### **JavaScript, Events, DOM APIs**
+- In order to control everything use Java script and DOM APis since A-frame scenes cant do much bc its just html
+- Always use logic inside A-frame components so now just raw `<script>` tags after `</a-scene>`
+- Use DOM selectors like `.querySelectorr()` and `.querySelectorAll()` for tag, id , class , components
+- `.getAttribute()` is different it returns values rather than strings will return internal data object of the component dont modify directly
+- You can edit modify entities and create add remove
+- .setAttribute() to update property of component
+### **Developing with three.js**
+- WORKING WITH .objects3D 1. is an abstarct on top three js 2. it also has a refrence to `<a-scene>` 3. with a component we can access it var scene through this entity .object 3d
+- ACCESSING components add the mesh and light below the enititys root THREE.Grouo so 1.Mesh 2.Light 3.Etc we can also access itt though the entitys .getObject3D(name)
+- .object3DMap : compoents add tje mesj amd ;ight under entitys root mesh and light stores as different types of three.js objects in eneitys
+- setObject3D: when settings that on a entity it adds its entity group making it a new Object3D part of three.js scene. We set is by its entity .setObject3D the name denotes the Object3D's purpose
+- .getWorldPosition to get the world position and rotation od a 3dObject
+
+
 
 ### 3/26/26
-**Writing a Component**
-**Interactions & Controllers**
-
+### **Writing a Component**
+-AFRAME.registerComponent(): components are regisytered with that. We put the name of the component which will be used as the HTML attributes name in the components representation in the DOM. Then pass component definition. Within it we can define lifecycle handler methods like .init() which is available when the component is plugged into its entity
+-Schema defines the properties of its component
+.init() is the most basic component that will log a simple message once the components entity is attached using the .init() handler.
+-to handle property updates we can use .update()
+-the tick handler adds a continously running behavior that runs on every frame of the render loop to the scene that also demonstarte relationships between entities
+### **Interactions & Controllers**
+5 key mainpoints for both topics i studied today since I didnt have enough time today
+- events: 2D web input and interactions are handled through browser events, A frame also relies on events they are synthethic custom events that can be used to any component describing any event
+- Cursor: handling events and interactions are the as gazed interactions with the cursor component, it created a synthethic click event on gaze with a raycaster ex like: create a synthethic click event
+- Event-set: it makes the basic event handledrs declarative, which can also target other entities
+using _targer: ${selector.} works with other components
+- Tracked controls: and collison detection components into interactive gestures and communitates for mainly target entities in order for them to respond
+so gestures like : hover, grab , stretch, drag-drop
+- Laser controls: gives laser interactions for controllers it can be configured by adjusting the length of the raycaster
+*note: when you have time work on studying the rest for now will do main points so i used ctrl-f after reading through everything just checking the important ones rather than extraaa*
 ### 3/27/26
+*I feel like I barely wrote notes because of the SHABR worked on and the classwork bc of the trip sorry me tired*
 **3D Models**
+- use 8*gtif** is posibe to gain adoption as the standard transmitting 3D models over the web
+- if you dont see textrues use **OBJ**  -- go back to developing 3JS or writing a component if u dont remember
+- use animation-mixer component to play a models built in animations, **it can be merged into a frames core in the future**
+
 **Visual Inspector & Dev Tools**
+on 3/19/26
 
-### 3/28/26
-**Hosting & Publishing**
-**Best Practices**
-**Building a Basic Scene (Guide)**
-**entity + component**
-
+**note: for the new learning log i wanted to learn everything by order rather than just going for the "important" to get a better understanding**
 <!--
 * Links you used today (websites, videos, etc.)
 * Things you tried, progress you made, etc
