@@ -109,6 +109,7 @@ Writing a component doc and takeaways
   - I want to use it, so the future innovation I think may exist in the future is the electric floss so then
   - I would use components like cube and sphere mostly
   - I'd use the entity component system I learned on 3/18/26
+
 ### 3/23/26
 **Introduction**
 * Developed from plain html
@@ -124,13 +125,23 @@ Powerful three.js framework, provides a declarative composable , reusable tntity
 so you can fly around to peek under the hood
 and lastly for **components** can be checked in the documentation
 **Installation**
-**VR Headsets & WebXR Browsers**
+- Play with the browser
+- Local development
+ Develop projects using a local server so that files are properly served
+- Options like
+  - terminal in the same directory as your html file
+  - Python 3- m (check in docs)
+- Open the project in the browser using the local url and port
+In order to have it ina  html file drop in a `<script>` tag to the CDN build
+
 
 Testing out:
 
 ### 3/24/26
 **VR Headsets & WebXR Browsers**
+- A frame supports alot of platform
 **HTML & Primitives**
+
 **Entity-Component-System**
 
 ### 3/25/26
