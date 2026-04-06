@@ -209,10 +209,17 @@ so gestures like : hover, grab , stretch, drag-drop
 - if you dont see textrues use **OBJ**  -- go back to developing 3JS or writing a component if u dont remember
 - use animation-mixer component to play a models built in animations, **it can be merged into a frames core in the future**
 
-**Visual Inspector & Dev Tools**
-on 3/19/26
-
 **note: for the new learning log i wanted to learn everything by order rather than just going for the "important" to get a better understanding**
+
+### 3/30/26
+On my a-frame tinkering I tried to prototype the flosser future innovation I have on the freedom project I used the box components for the build the floss etc and then the spheres attaching them to the box as buttons
+
+![Prototype](prototype1.png)
+
+Though i couldnt get the other gray part attached to the flosser so bummer but its okay ill fix that problem tomorrow
+
+### 3/6/26
+
 <!--
 * Links you used today (websites, videos, etc.)
 * Things you tried, progress you made, etc
