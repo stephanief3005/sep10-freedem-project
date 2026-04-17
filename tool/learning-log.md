@@ -216,9 +216,32 @@ On my a-frame tinkering I tried to prototype the flosser future innovation I hav
 
 ![Prototype](prototype1.png)
 
-Though i couldnt get the other gray part attached to the flosser so bummer but its okay ill fix that problem tomorrow
+Though i couldnt get the other gray part attached to the flosser so its okay ill fix that problem tomorrow
 
 ### 3/6/26
+
+### 3/8/26
+
+
+### 3/15/26
+I decided to make another tinkering html for my tool so I can test out the physic's components and other examples on A-frame and the 1st one has the prototype. I fixed the gray part which is a box component but its supposed to be one of he parts that connect the string flosser and so. I went back to my notes and was wondering how can I get the exact coordinates to bring theese together and fix it so I don't have to keep assuming or going back to the guide telling me what highers and lower numbers lead to what. So then I used the inspector when I used https-server going to the tinkering htmls link and used ctrl+i or ctrl+option+i and I got to move the part to where I wanted to so now I have a better idea in how to use inspector alot and actually look through my notes more rather than the documentation.
+
+### 3/16/26
+Here I was exploring how to use more simple Javascript codes to edit my components basically register a component like a-box to a AFRAME.registerComponent what I did wrong at first why it didnt work the whole time when registering a component is that
+* You need to add the AFRAME.registerComponent to A SCRIPT TAG not a HTML --> I didnt really know where to place it so I added it to the html so solving this is good progress
+
+### 3/17/26
+After finally refreshing my brain with going back to using compoents and using AFRAME.registerComponent I will apply this to my prototype
+
+Photo goes here :
+
+
+
+
+
+
+
+
 
 <!--
 * Links you used today (websites, videos, etc.)
