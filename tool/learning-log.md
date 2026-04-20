@@ -235,7 +235,7 @@ I havent been doing my learning log. But I will be updating more for now on beca
 So today I looked back in my notes to fix the problem to attach the components for my prototype and rather than guessing I used the inspect tool. Ctrl + alt + i and I got to put everything together and copy and pasted the coordinates after solving it in the inspector too then the actual code.
 
 
-
+![using inspector](inspecting.png)
 
 <!--
 * Links you used today (websites, videos, etc.)
