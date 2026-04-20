@@ -230,15 +230,9 @@ I decided to make another tinkering html for my tool so I can test out the physi
 Here I was exploring how to use more simple Javascript codes to edit my components basically register a component like a-box to a AFRAME.registerComponent what I did wrong at first why it didnt work the whole time when registering a component is that
 * You need to add the AFRAME.registerComponent to A SCRIPT TAG not a HTML --> I didnt really know where to place it so I added it to the html so solving this is good progress
 
-### 3/17/26
-After finally refreshing my brain with going back to using compoents and using AFRAME.registerComponent I will apply this to my prototype
-
-Photo goes here :
-
-
-
-
-
+### 3/20/26
+I havent been doing my learning log. But I will be updating more for now on because its really important and I cant miss out this. But I feel like the first days I've covered many topics of A-Frame but need to focus more on actually creating.
+So today I looked back in my notes to fix the problem to attach the components for my prototype and rather than guessing I used the inspect tool. Ctrl + alt + i and I got to put everything together and copy and pasted the coordinates after solving it in the inspector too then the actual code.
 
 
 
