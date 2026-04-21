@@ -230,12 +230,33 @@ I decided to make another tinkering html for my tool so I can test out the physi
 Here I was exploring how to use more simple Javascript codes to edit my components basically register a component like a-box to a AFRAME.registerComponent what I did wrong at first why it didnt work the whole time when registering a component is that
 * You need to add the AFRAME.registerComponent to A SCRIPT TAG not a HTML --> I didnt really know where to place it so I added it to the html so solving this is good progress
 
-### 3/20/26
+### 4/20/26
 I havent been doing my learning log. But I will be updating more for now on because its really important and I cant miss out this. But I feel like the first days I've covered many topics of A-Frame but need to focus more on actually creating.
 So today I looked back in my notes to fix the problem to attach the components for my prototype and rather than guessing I used the inspect tool. Ctrl + alt + i and I got to put everything together and copy and pasted the coordinates after solving it in the inspector too then the actual code.
 
 
 ![using inspector](inspecting.png)
+
+### 4/21/26
+I created aframe tinkering 2 so the 1st tinker is based on a idea of what i think one of the possible future inventions are which is a electric flosser with string with ai to detect where it should floss. The second tinkering is to use more a-frame documentation examples like physics on a-frame example.
+
+This is the code I used for tinker 2
+`
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+    <script src="https://unpkg.com/@c-frame/aframe-physics-system@4.2.3/dist/aframe-physics-system.min.js"></script>
+  </head>
+  <body>
+    <a-scene physics>
+      <a-box position="-1 4 -3" rotation="0 45 0" color="#4CC3D9" dynamic-body></a-box>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4" static-body></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+`
+-- so what I learned i
 
 <!--
 * Links you used today (websites, videos, etc.)
