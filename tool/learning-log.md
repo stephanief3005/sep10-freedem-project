@@ -256,7 +256,33 @@ This is the code I used for tinker 2
   </body>
 </html>
 `
--- so what I learned i
+### 3/22/26
+ Since the script part is for Java script I think i'll only go with using entitiys and components with my prototype to have a clear vision in what im doing I did some tinkering on 2 and this is what I resulted on my own I feel like using entities is really easy especially with this format in a-frame given
+ `<a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}">`
+
+ ``` html
+  <html>
+    <head>
+      <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+      <script src="https://unpkg.com/@c-frame/aframe-particle-system-component@1.2.x/dist/aframe-particle-system-component.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/aframe-simple-sun-sky@^1.2.2/simple-sun-sky.js"></script>
+      <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js"></script>
+    </head>
+    <body>
+      <a-scene>
+      <a-entity geometry="primitive: sphere; radius: 1.5"
+                material="color: white; metalness: 0.5 "
+
+
+      ></a-entity>
+      </a-scene>
+    </body>
+  </html>
+```
+Take away important bullet points:
+* format for using entitiy `<a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}">`
+* this colon --> : <-- seperates properties
+* semicolon ; seperates different property declarations
 
 <!--
 * Links you used today (websites, videos, etc.)
