@@ -5,3 +5,22 @@
     height: 500px;
 
 }
+
+   .dental12{
+    height:800px;
+    width: 800px
+
+   }
+
+   .middle {
+    text-align: center;
+   }
+
+   .left {
+    text-align: right;
+
+   }
+
+   body {
+  background-color: #ddccff;
+}
