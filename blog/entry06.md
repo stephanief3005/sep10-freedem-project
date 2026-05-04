@@ -12,6 +12,8 @@ I made my mvp by adding colors for example the background. When I think about de
    ![Revert proof](revert.png)
 
 ## Sources
+-SEP notes for the coloring and fonts. Since I don't memorize everything so for the google fonts in my notes I checked around unit 1-2 from the code academy that all you needed to do was. Go to google fonts, pick a font. Get the code href html. Then check the css name. The href html you add it before the style and body. Then the css in the style.css and choose what you want to apply the font for.
+-I then used w3schools for color choosing a shade of purple I wanted and to get the code you needed to add for the background color and letter's
 
 ## EDP
 
