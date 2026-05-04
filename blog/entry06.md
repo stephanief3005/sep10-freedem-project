@@ -2,7 +2,7 @@
 ##### 5/4/26
 
 ## Content
-I made my MVP by adding colors, for example, the background. When I think about dental health, I think about colors like blue or purple. So I just went with purple for the whole color scene. I used CSS style in order to specifically choose what I wanted to be colored. Then I added Google fonts. I used the href, added it to the HTML, then went back and chose with h# or p I wanted to give a font to. After all the designing I went on to aligning and positioning stuff. I was gonna use **.container** for my cards, but they would move to the left, so I stuck with the decision of only using **.container-fluid**
+I made my MVP by adding colors, for example, the background. When I think about dental health, I think about colors like blue or purple. So I just went with purple for the whole color scene. I used CSS to specifically choose what I wanted to color. Then I added Google fonts. I used the href, added it to the HTML, then went back and chose with h# or p I wanted to give a font to. After all the designing I went on to aligning and positioning stuff. I was gonna use **.container** for my cards, but they would move to the left, so I stuck with the decision of only using **.container-fluid**
 
   ![Preview of web](mvp.png)
 
@@ -12,7 +12,7 @@ I made my MVP by adding colors, for example, the background. When I think about 
    ![Revert proof](revert.png)
 
 ## Sources
--**SEP notes** for the coloring and fonts. Since I don't memorize everything, for the Google fonts in my notes, I checked around unit 1-2 from the code academy that all you needed to do was. Go to Google Fonts, pick a font. Get the code href HTML. Then check the CSS name. The href HTML is added before the style and body. Then, in the CSS in the style.css, choose what you want to apply the font to.
+-**SEP notes** for the coloring and fonts. Since I don't memorize everything, for the Google fonts in my notes, I checked around unit 1-2 from the Code Academy, which states that all you need to do is. Go to Google Fonts, pick a font. Get the code href HTML. Then check the CSS name. The href HTML is added before the style and body. Then, in the CSS in the style.css, choose what you want to apply the font to.
 -I then used **w3schools** for color choosing a shade of purple I wanted, and to get the code you needed to add for the background color and letters
 
 ## EDP
