@@ -14,16 +14,22 @@
 * 4/23-4/24 Add outline
 * 3/25 - 3/26 Add colors and fonts
 * 3/27 - 3/28 Work on prototype for A-frame
-* 3/29 - 3/30
+* 3/29 - 3/30 done
+* 5/2 - Add colors (MVP)
+* 5/3 - Do fonts and add container fluids if containers don't want to allign well with .container (MVP)
 #### MVP
-
-* Task/Timeline
+* Navbar
+* Container's
+* Add a-frame
+* context using p or bullet points
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Fonts
+* Colors
+* Allignement
 
 
 
@@ -32,7 +38,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |

@@ -25,16 +25,41 @@
   background-color: #ddccff;
 }
 
-  .mild {
-    width: 400px;
-    height: 450px;
-  }
+
 
    h1{
     font-family: "Josefin Sans", sans-serif;
+    color: #4400cc
    }
 
    h3{
     font-family: "Josefin Sans", sans-serif;
+    color: #4400cc
    }
-   
+
+   .card {
+    background-color: #eee6ff;
+   }
+
+   p {
+    font-family: "Montserrat", sans-serif;
+    color: #4400cc
+
+   }
+
+   .font {
+     font-family: "Montserrat", sans-serif;
+
+   }
+
+   ul {
+    color: #4400cc
+   }
+
+   li {
+    color: #4400cc
+   }
+
+   h5 {
+    color: #4400cc
+   }
