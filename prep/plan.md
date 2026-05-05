@@ -36,16 +36,16 @@
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 #### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Emmanuel  | I really like how you used your tool in the part B section. The use of aframe to show what your tool might look like is impressive and creative  | consider trying to maybe change the sizing for the images. The first section image is very big which feels a little overwhealming at times  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
--->
+
