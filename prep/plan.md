@@ -17,6 +17,13 @@
 * 3/29 - 3/30 done
 * 5/2 - Add colors (MVP)
 * 5/3 - Do fonts and add container fluids if containers don't want to allign well with .container (MVP)
+
+ Beyond mvp timeline ( till monday may 11)
+ * Work more on A-frame 5/6
+ * Work on positioning and allignement 5/7
+ * Give divs borders! 5/8
+ * Work more on a-frame  5/9
+ * 
 #### MVP
 * Navbar
 * Container's

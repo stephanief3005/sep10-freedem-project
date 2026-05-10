@@ -22,23 +22,24 @@
    }
 
    body {
-  background-color: #ddccff;
+  background-color: #f3e6ff;
 }
 
 
 
    h1{
     font-family: "Josefin Sans", sans-serif;
-    color: #4400cc
+
    }
 
    h3{
     font-family: "Josefin Sans", sans-serif;
-    color: #4400cc
+
    }
 
    .card {
-    background-color: #eee6ff;
+    width: 102;
+    height: 100%;
    }
 
    p {
