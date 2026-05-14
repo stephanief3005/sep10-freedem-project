@@ -29,7 +29,7 @@
 
    h1{
     font-family: "Josefin Sans", sans-serif;
-
+    font-size: 45px;
    }
 
    h3{
@@ -44,7 +44,8 @@
 
    p {
     font-family: "Montserrat", sans-serif;
-    color: #4400cc
+    color: #4400cc;
+    font-size: 20px;
 
    }
 
@@ -54,13 +55,24 @@
    }
 
    ul {
-    color: #4400cc
+    color: #4400cc;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+
    }
 
    li {
-    color: #4400cc
+    color: #4400cc;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
    }
 
    h5 {
-    color: #4400cc
+    color: #4400cc;
+    font-size: 20px;
+   }
+
+   card-text {
+     font-family: "Montserrat", sans-serif;
+     font-size: 20px;
    }
