@@ -11,7 +11,8 @@
 - Be ready to answer questions
   
 ## Sources:
-
+[presentation plan](prep/presentation.nd)
+[slides](https://docs.google.com/presentation/d/1bQ-hBygVgWLrH6avzQdSNvG1IvxAIJWq0ZM-cdQOf58/edit?usp=sharing)
 
 Text
 
