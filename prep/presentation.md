@@ -4,7 +4,7 @@
 * Ever wondered what technologies dentists use when you're at your appointment. Well I made a website about dental technologies using HTML, CSS and AFrame.
 
 ## Product
-*I will use my a-frame to show off my idea of a future innovation: future technology ai string electric flosser from a-frame
+* I will use my a-frame to show off my idea of a future innovation: future technology ai string electric flosser from a-frame
 * clickable a-frame
 *  VR view
 * demo mild to most complex technologies
