@@ -1,5 +1,13 @@
 # Entry 7
-##### X/X/XX
+##### 5/18/26
+
+## Content 
+**Takeaways from in class presentation**
+
+**Takeaways from expo elevator pitch**
+
+## Sources:
+
 
 Text
 
