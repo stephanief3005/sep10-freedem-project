@@ -5,7 +5,11 @@
 **Takeaways from in class presentation**
 
 **Takeaways from expo elevator pitch**
-
+- Be more confident with what your saying!
+- Be a little bit more clear
+- Always show energy to keep the person intrested!
+- Be ready to answer questions
+  
 ## Sources:
 
 
