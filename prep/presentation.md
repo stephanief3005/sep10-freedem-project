@@ -15,8 +15,8 @@
 
 ## Conclusion
 * [url to project]
-*In conclusion, technology has improved dental health, creating a faster, safer, and more effective way for patients. But don't let the dental innovations make you think you should stop flossing!
-*Say thank you at the end
+* In conclusion, technology has improved dental health, creating a faster, safer, and more effective way for patients. But don't let the dental innovations make you think you should stop flossing!
+* Say thank you at the end
 
 <!-- EXAMPLE
 
