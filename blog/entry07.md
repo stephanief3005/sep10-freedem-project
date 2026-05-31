@@ -11,8 +11,13 @@
 - Be ready to answer questions
   
 ## Sources:
-[presentation plan](prep/presentation.nd)
-[slides](https://docs.google.com/presentation/d/1bQ-hBygVgWLrH6avzQdSNvG1IvxAIJWq0ZM-cdQOf58/edit?usp=sharing)
+* [presentation plan](prep/presentation.nd)
+* [slides](https://docs.google.com/presentation/d/1bQ-hBygVgWLrH6avzQdSNvG1IvxAIJWq0ZM-cdQOf58/edit?usp=sharing)
+
+## Engineering Design Process
+
+## Skills
+The skills I learned from my elevator pitch and my class presentation is the more you practice and presentate is really the best way to boost your confidence and make you feel reallyy clear for the official day you will be presentating. 
 
 Text
 
