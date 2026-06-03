@@ -17,7 +17,7 @@
 ## Engineering Design Process
 
 ## Skills
-The skills I learned from my elevator pitch and my class presentation is the more you practice and presentate is really the best way to boost your confidence and make you feel reallyy clear for the official day you will be presentating. 
+The skills I learned from my elevator pitch and my class presentation is the more you practice and presentate is really the best way to boost your confidence and make you feel reallyy clear for the official day you will be presentating. I also learned that practicing is the same as learning
 
 Text
 
