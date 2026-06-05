@@ -2,14 +2,17 @@
 ##### 5/18/26
 
 ## Content 
-**Takeaways from in-class presentation**
 
 **Takeaways from expo elevator pitch**
 - Be more confident with what you're saying!
 - Be a little bit clearer
 - Always show energy to keep the person interested!
 - Be ready to answer questions
-  
+
+**Takeaways from in-class presentation**
+- Always have energy while presenting to keep the audience interested :)
+- Slow down when talking a bit, find the sweet spot of speed when talking
+- Keep practicing because **more practice = better results** goes to my presentation
 ## Sources:
 * [presentation plan](prep/presentation.nd)
 * [slides](https://docs.google.com/presentation/d/1bQ-hBygVgWLrH6avzQdSNvG1IvxAIJWq0ZM-cdQOf58/edit?usp=sharing)
