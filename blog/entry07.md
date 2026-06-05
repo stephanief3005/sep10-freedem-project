@@ -23,7 +23,6 @@ I'm in the ***communicate the results*** process. I've shared my knowledge with 
 ## Skill
 The skills I learned from my elevator pitch and my class presentation are that the more you practice and present, the more you boost your confidence and feel really clear on the day you will be presenting. I also learned that practicing is the same as learning. This is great for real-life situations because when I'm applying for colleges or jobs or meeting important people, I always have the idea that in order to be prepared and do well, is to practice.
 
-Text
 
 [Previous](entry06.md) | [Next](entry08.md)
 
